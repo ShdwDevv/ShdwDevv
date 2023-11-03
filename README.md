@@ -18,7 +18,6 @@
 <a href="https://kaggle.com/arshathahameda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="arshathahameda" height="30" width="40" /></a>
 <a href="https://instagram.com/arshathahamed10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arshathahamed10" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/arshathahamed500" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arshathahamed500" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/arshathahameda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arshathahameda" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
