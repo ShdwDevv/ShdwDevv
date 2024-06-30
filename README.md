@@ -1,3 +1,36 @@
+## Hi there 👋 It's me Arshath
+
+Student @Easwari Engineering College
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+- 🔭 Here's my [portfolio](https://arshath-ahamed.netlify.app/)                                                 
+- 🌱 I’m currently learning DSA
+- 📫 Reach me :
+<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hareesh-r/)
+
+
+### I code in
+ <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> 
+
+### IDE and Tools I Use
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> <img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png" /><img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+ 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arshathahamed10&show_icons=true&theme=transparent)
+![Arshath's GitHub stats](https://github-readme-stats.vercel.app/api?username=arshathahamed10&theme=dark&show_icons=true&&hide=issues,contribs)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arshathahamed10)](https://github.com/arshathahamed10/github-readme-stats)
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/hareeshprogrammer?ext=contest&theme=dark)](https://leetcode.com/hareeshprogrammer)
+[![Arshath's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arshathahamed10&bg_color=1d1b1c&color=8d869c&line=142eb3&point=4d15d1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## Enough
+
+
+
+
+
+
+
+
+
 ![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)
 <h1 align="center">Hi 👋, I'm Arshath Ahamed A</h1>
 <h3 align="center">A Web Developer</h3>
