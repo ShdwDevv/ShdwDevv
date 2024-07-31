@@ -4,7 +4,7 @@ Student @Easwari Engineering College
 <img align="right" width="470" height="290" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
 
 - 💫 About Me:
-- 🔭 Here's my [portfolio](https://arshath-ahamed.netlify.app/)
+- 🔭 Here's my [portfolio]
 - Final year student at Easwari Engineering College                                          
 - 🌱 I’m currently learning DSA
 - 📫 Reach me :
@@ -17,6 +17,6 @@ Student @Easwari Engineering College
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> <img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png" /><img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/arshathahamedA?theme=dark&font=Abel)
+
 <!--![LeetCode Stats](https://leetcard.jacoblin.cool/arshathahamedA?theme=dark&font=Abel&ext=heatmap)-->
 [![Arshath's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arshathahamed10&bg_color=1d1b1c&color=8d869c&line=142eb3&point=4d15d1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
