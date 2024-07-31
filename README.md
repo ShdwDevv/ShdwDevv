@@ -6,7 +6,7 @@ Student @Easwari Engineering College
 - 💫 About Me:
 - 🔭 Here's my [portfolio]
 - Final year student at Easwari Engineering College                                          
-- 🌱 I’m currently learning DSA
+- 🌱 I’m currently learning Web development
 - 📫 Reach me :
 <br /> [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arshathahamed10) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arshathahamed10) 
 
