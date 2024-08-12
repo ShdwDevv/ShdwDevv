@@ -4,12 +4,11 @@ Student @Easwari Engineering College
 <img align="right" width="470" height="290" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
 
 - 💫 About Me:
-- 🔭 Here's my [portfolio](https://arshath-ahamed.netlify.app/)
+- 🔭 Here's my [portfolio](https://arshath-ahamed.netlify.app/){:target="_blank"}
 - Final year student at Easwari Engineering College                                          
 - 🌱 I’m currently learning Web development
 - 📫 Reach me :
 <br /> [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arshathahamed10) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arshathahamed10) 
-
 
 ### I code in
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> 
