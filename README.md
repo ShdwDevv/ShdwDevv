@@ -4,7 +4,7 @@ Student @Easwari Engineering College
 <img align="right" width="470" height="290" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
 
 - 💫 About Me:
-- 🔭 Here's my [portfolio](https://arshath-ahamed.netlify.app/){:target="_blank"}
+- 🔭 Here's my [portfolio](https://arshath-ahamed.netlify.app/)
 - Final year student at Easwari Engineering College                                          
 - 🌱 I’m currently learning Web development
 - 📫 Reach me :
